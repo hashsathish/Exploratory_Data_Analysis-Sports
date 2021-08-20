@@ -1,4 +1,4 @@
-# Task05-Exploratory_Data_Analysis-Sports
+# Exploratory_Data_Analysis-Sports
 
 Here I have created the EDA model of the IPL dataset
 
